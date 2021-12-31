@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [https://mw3981.github.io/modal-window/]
+- Live Site URL: [https://michellewongi.github.io/modal-window/]
 
 ## My process
 
